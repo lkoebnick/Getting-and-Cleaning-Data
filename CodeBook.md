@@ -43,6 +43,7 @@ column given name "activity"
 
 specialFeatures		(length = 66)
 Mean and Standard deviation features extracted from features.txt file of original data set
+
 			- "tBodyAcc-mean()-X"
 			- "tBodyAcc-mean()-Y"
 			- "tBodyAcc-mean()-Z"
