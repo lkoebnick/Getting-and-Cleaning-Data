@@ -43,11 +43,19 @@ average of each variable for each activity and each subject.
 
 #### How the Script Works####
 
+
+
 Step 1. Read in Samsung accelerometer data from files in folder named "UCI HAR Dataset"
 in the working directory
+
 Step 2. Combine train data with test data
+
 Step 3. Give decriptive names to all columns factor variables in data set
+
 Step 4. Extract only measurements on the mean and standard deviation for each measurement
+
 Step 5. Combine all clean data into a single tidy data set
+
 Step 6. Compute averages for each subject for each activity
+
 Step 7. Create a text file in the working directory containing the tidy table of averages
