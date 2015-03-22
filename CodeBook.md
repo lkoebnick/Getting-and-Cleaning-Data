@@ -33,14 +33,12 @@ column given name "subject"
 
 activityData	(dim = 10299, 1)
 Activity performed by each volunteer while performing experiment
-
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
-
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 column given name "activity"
 
 specialFeatures		(length = 66)
